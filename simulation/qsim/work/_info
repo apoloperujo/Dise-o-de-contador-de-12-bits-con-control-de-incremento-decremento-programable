@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\peruj\OneDrive\Escritorio\IntegradorB\simulation\qsim
+vIntegrador
+Z1 !s100 aMgB@YDj3^l^IgFS9@Q7k2
+Z2 IC?F^fkmX6M1Y5nUG9l7KT1
+Z3 Vf8GJ1k<ESo>n6GDKGXS>R2
+Z4 dC:\Users\peruj\OneDrive\Escritorio\IntegradorB\simulation\qsim
+Z5 w1752188277
+Z6 8Integrador.vo
+Z7 FIntegrador.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Integrador.vo|
+Z10 o-work work -O0
+Z11 n@integrador
+!i10b 1
+!s85 0
+Z12 !s108 1752188277.928000
+Z13 !s107 Integrador.vo|
+!s101 -O0
+vIntegrador_vlg_check_tst
+!i10b 1
+Z14 !s100 9:^XVM@4`K7Jm@oCXkST^3
+Z15 I3_cIV^kT9jD76?MlhE:4M3
+Z16 VR7l[C:n;I0R;1;2:D;aAS1
+R4
+Z17 w1752188275
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 73
+R8
+r1
+!s85 0
+31
+Z20 !s108 1752188278.068000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 n@integrador_vlg_check_tst
+vIntegrador_vlg_sample_tst
+!i10b 1
+Z24 !s100 aSGDgfa1@C8mB9c0FBE_N0
+Z25 Ik8A:Dlb8IoB^Ho:>]S2gO2
+Z26 V>Z`oP=maFB55Gk4nK<>iz3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@integrador_vlg_sample_tst
+vIntegrador_vlg_vec_tst
+!i10b 1
+!s100 Rdz?@z>5akoeNX2]5<MG;1
+ID6Gh0jYS?6dSRk?kLkWYl0
+Z28 VGa8Podd37HNC?bXoZ^3V70
+R4
+R17
+R18
+R19
+Z29 L0 834
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@integrador_vlg_vec_tst
